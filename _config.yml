@@ -1,5 +1,8 @@
-title: 'Lauren Murata, Fitness Instructor '
-purpose: []
+name: Water Wahine Fitness
+favicon: null
+layout_spectrum: 0.7473118
+typography_spectrum: 0.3028674
+title: Water Wahine Fitness
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4594730907119811
-  brandStrength: 0.1366230701096356
-  rhythmicContrast: 0.03955298056825995
   brandColors:
     - '#000000'
     - '#9bd0ff'
     - '#ffffff'
     - '#163d8c'
     - '#457cd8'
+  brandStrength: 0.1366230701096356
   lightness: 0.3432760408613831
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Water Wahine Fitness
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3028674
-layout_spectrum: 0.7473118
+  saturation: 0.4594730907119811
+  rhythmicContrast: 0.03955298056825995
+purpose: []
